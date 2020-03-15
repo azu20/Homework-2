@@ -8,7 +8,7 @@ Select the Contact Me page, this page will show the use of forms on an interacti
 
 Select the Portfolio page. This page has the listed projects I've created.  The application of image floats, and showcasing an understanding of a grid is reflected on the content of this page. 
 
-Allthought I haver used Lorem text and placehold pictures, this website provides the different concepts and applications learned this week. 
+Allthought I used Lorem text and placehold pictures, this website provides the different concepts and applications learned this week. 
 
 Upon completion of my homework, I used the Validator.w3.org website to validate my html pages. 
 
