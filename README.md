@@ -1,4 +1,4 @@
-# Homework-2
+# First Portfolio Page! 
 
 This project applies all the Bootstrap concepts learned this week. The concept of a grid, using a container floating images and using a nav bar. 
 
@@ -8,9 +8,12 @@ Select the Contact Me page, this page will show the use of forms on an interacti
 
 Select the Portfolio page. This page has the listed projects I've created.  The application of image floats, and showcasing an understanding of a grid is reflected on the content of this page. 
 
-Allthought I used Lorem text and placehold pictures, this website provides the different concepts and applications learned this week. 
+Allthough I used Lorem text and placehold pictures, this website provides the different concepts and applications learned this week. 
 
 Upon completion of my homework, I used the Validator.w3.org website to validate my html pages. 
 
 
+# Deployed website: 
+
+https://azu20.github.io/create-your-portfolio/
 
